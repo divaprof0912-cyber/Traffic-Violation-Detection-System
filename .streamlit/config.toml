@@ -1,0 +1,8 @@
+[server]
+headless = true
+
+[runner]
+magicEnabled = false
+
+[python]
+version = "3.10"
